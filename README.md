@@ -118,17 +118,15 @@
 
  by whsczl
 
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/1.png)
-
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/2.png)
-
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/1.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/2.png)
 ![image ](https://github.com/tinyshu/ddz_game/raw/master/image/3.png)
-
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/4.png)
-
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/5.png)
-
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/6.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/3.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/4.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/5.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/6.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/7.png)
+![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/8.png)
 
 
 
