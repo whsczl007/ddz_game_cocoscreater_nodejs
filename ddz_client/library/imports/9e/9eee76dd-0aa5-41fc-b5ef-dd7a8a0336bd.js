@@ -35,7 +35,7 @@ cc.Class({
   },
   start: function start() {},
   btn_bangzhu: function btn_bangzhu() {
-    cc.sys.openURL('https://www.jianshu.com/c/347a8eff3d93');
+    cc.sys.openURL('https://github.com/whsczl007/ddz_game_cocoscreater_nodejs');
   },
   // update (dt) {},
   onButtonClick: function onButtonClick(event, customData) {

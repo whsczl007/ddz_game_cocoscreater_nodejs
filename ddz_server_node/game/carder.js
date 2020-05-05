@@ -948,7 +948,7 @@ module.exports = function(){
 		 }
 		 return 1;// 其它牌型权重
 	}
-	that.toCountArray=function(cards){
+	that.toCountArray=function(cards){  // 如: [1,1]两张单牌, [1,1,1,1,1]五顺,[3,1]三带一,[3,2]三带二,[3,3,1,1]飞机. 
 		var counts=[];
 		for(var i in cards){
 			var card=cards[i];
@@ -956,7 +956,7 @@ module.exports = function(){
 		}
 		return counts
 	}
-	that.toValueArray=function(cards){
+	that.toValueArray=function(cards){// 如:[15,14] 王炸,[1,5,9,13,17] 顺子 34567,  [3,4] 结合 CountArray[3,2] 表示 3张3 2张4 即 三带二33344 
 		var values=[];
 		for(var i in cards){
 			var card=cards[i];
