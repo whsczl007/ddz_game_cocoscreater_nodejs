@@ -1,5 +1,5 @@
-# ddz_game_cocoscreater_nodejs
-# 本项目在https://github.com/tinyshu/ddz_game 基础上修改及增加功能。仅供学习交流，如有侵权，请联系我删除 qq 437868141
+# ddz_game_cocoscreater_nodejs  by  whsczl 陈志良 qq 437868141
+# 本项目在https://github.com/tinyshu/ddz_game 基础上修改及增加功能。仅供学习交流，如有侵权，请联系我删除 
 
 
 斗地主游戏 cocoscreator-nodejs-mysql
@@ -116,7 +116,7 @@
  
  添加：牌值权重。（王炸3 >炸弹2 >其它1 ,权重大 吃小，权重相同 判断牌型及大小） 
 
- by whsczl
+
 
 ![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/1.png)
 ![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/2.png)
