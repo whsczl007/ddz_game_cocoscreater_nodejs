@@ -118,4 +118,4 @@
 
  by whsczl
 
-[image ](https://github.com/tinyshu/ddz_game/raw/master/image/1.png)
+![image ](https://github.com/tinyshu/ddz_game/raw/master/image/1.png)
