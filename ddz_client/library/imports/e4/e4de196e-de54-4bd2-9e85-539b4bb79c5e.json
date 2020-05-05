@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alert_cancel",
+    "texture": "d67664d8-2cff-4acb-96c1-a66e5e8774e0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

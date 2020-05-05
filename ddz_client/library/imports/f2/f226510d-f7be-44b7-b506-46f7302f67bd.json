@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alert_background",
+    "texture": "2ef9ffa4-d90a-44f3-b9d1-627ea999cc02",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      190,
+      148
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      190,
+      150
+    ],
+    "capInsets": [
+      47,
+      42,
+      50,
+      42
+    ]
+  }
+}
