@@ -117,4 +117,4 @@
  添加：牌值权重。（王炸3 >炸弹2 >其它1 ,权重大 吃小，权重相同 判断牌型及大小） 
 
  by whsczl
-[img] 
+[img https://github.com/tinyshu/ddz_game/raw/master/image/1.png] 
