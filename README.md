@@ -1,5 +1,5 @@
-# ddz_game_cocoscreater_nodejs  by  whsczl 陈志良 qq 437868141
-# 本项目在https://github.com/tinyshu/ddz_game 基础上修改及增加功能。仅供学习交流，如有侵权，请联系我删除 
+# 游戏定制外包、棋牌源码部署、商务合作 联系 czl666666@qq.com
+# 本项目在https://github.com/tinyshu/ddz_game 基础上修改及增加功能。仅供学习交流，如有侵权，请联系删除 
 
 
 斗地主游戏 cocoscreator-nodejs-mysql
