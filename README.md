@@ -9,7 +9,7 @@
 数据库 ：mysql 5.6.47
 
 
-## 在他人基础上修改及增加如下
+## 修改及增加如下
 
 ### 前端：
  修改：增加登录缓存，使游客登录相同账号。（原：每次登录生成新账号） 
@@ -116,15 +116,15 @@
 
 
 
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/1.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/2.png)
-![image ](https://github.com/tinyshu/ddz_game/raw/master/image/3.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/3.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/4.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/5.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/6.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/7.png)
-![image ](https://github.com/whsczl007/ddz_game_cocoscreater_nodejs/raw/master/image/8.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/1.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/2.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/3.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/4.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/5.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/6.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/7.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/8.png)
+![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/9.png)
 
 
 
