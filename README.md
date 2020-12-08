@@ -1,4 +1,4 @@
-# 游戏定制外包、棋牌源码部署、商务合作 联系 czl666666@qq.com
+# 游戏定制外包、棋牌源码部署、商务合作 联系 gamer666666@qq.com
 
 斗地主游戏 cocoscreator-nodejs-mysql
 
@@ -8,7 +8,6 @@
 
 数据库 ：mysql 5.6.47
 
-本项目在https://github.com/tinyshu/ddz_game 基础上修改及增加功能。仅供学习交流，如有侵权，请联系删除 
 
 ## 在他人基础上修改及增加如下
 
