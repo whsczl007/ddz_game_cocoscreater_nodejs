@@ -16,6 +16,10 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 ## 扫码体验
 [![image ](https://ddzservernode.al666666.cn/56_9c6d221cb419c41f26801d184683e9fd.png)](https://ddzservernode.al666666.cn/ioshelper/details.html)
 
+
+## 打赏作者
+[![image ](https://ddzservernode.al666666.cn/alipay.png)](https://qr.alipay.com/fkx08759pyy1lfuphn99353)
+
 ## 修改及增加如下
 
 ### 前端：
@@ -133,8 +137,7 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 ![image ](https://ddzservernode.al666666.cn/a8.png)
 
 
-## 打赏作者
-[![image ](https://ddzservernode.al666666.cn/alipay.png)](https://qr.alipay.com%2Ffkx08759pyy1lfuphn99353)
+
 
 
 
