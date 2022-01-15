@@ -18,7 +18,7 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 
 
 ## 打赏作者
-[![image ](https://ddzservernode.al666666.cn/alipay.png)](https://qr.alipay.com/fkx08759pyy1lfuphn99353)
+[![image ](https://ddzservernode.al666666.cn/alipays.png)](https://qr.alipay.com/fkx08759pyy1lfuphn99353)
 
 ## 修改及增加如下
 
