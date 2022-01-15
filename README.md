@@ -13,6 +13,10 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 数据库 ：mysql 5.6.47
 
 
+## 扫码体验
+![image ](https://ddzservernode.al666666.cn/56_9c6d221cb419c41f26801d184683e9fd.png)
+[体验链接](https://ddzservernode.al666666.cn/ioshelper/details.html)
+
 ## 修改及增加如下
 
 ### 前端：
@@ -120,16 +124,16 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 
 
 
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a1.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a2.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a3.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a4.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a5.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a6.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a7.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a8.png)
+![image ](https://ddzservernode.al666666.cn/a1.png)
+![image ](https://ddzservernode.al666666.cn/a2.png)
+![image ](https://ddzservernode.al666666.cn/a3.png)
+![image ](https://ddzservernode.al666666.cn/a4.png)
+![image ](https://ddzservernode.al666666.cn/a5.png)
+![image ](https://ddzservernode.al666666.cn/a6.png)
+![image ](https://ddzservernode.al666666.cn/a7.png)
+![image ](https://ddzservernode.al666666.cn/a8.png)
 
-![image ](https://ddzservernode.al666666.cn/56_9c6d221cb419c41f26801d184683e9fd.png)
+
 
 
 
