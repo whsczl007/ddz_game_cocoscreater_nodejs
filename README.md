@@ -2,7 +2,11 @@
 
 斗地主游戏 cocoscreator-nodejs-mysql
 
-服务器 : node.js
+服务器 : Centos 7.2
+
+服务端 : node.js v16.13.2  
+
+Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 
 客户端: cocos creator2.3.3
 
@@ -124,7 +128,8 @@
 ![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a6.png)
 ![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a7.png)
 ![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a8.png)
-![image ](https://xiaoshuo.al666666.cn/ddz_game_cocoscreater_nodejs/a9.png)
+
+![image ](https://ddzservernode.al666666.cn/56_9c6d221cb419c41f26801d184683e9fd.png)
 
 
 
