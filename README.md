@@ -133,7 +133,8 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 ![image ](https://ddzservernode.al666666.cn/a8.png)
 
 
-
+## 打赏作者
+[![image ](https://ddzservernode.al666666.cn/alipay.png)](alipays://platformapi/startapp?saId=10000007&qrcode=https%3A%2F%2Fqr.alipay.com%2Ffkx08759pyy1lfuphn99353)
 
 
 
