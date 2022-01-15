@@ -129,12 +129,7 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 
 ![image ](https://ddzservernode.al666666.cn/b1.png)
 ![image ](https://ddzservernode.al666666.cn/b2.png)
-![image ](https://ddzservernode.al666666.cn/b3.png)
-![image ](https://ddzservernode.al666666.cn/b4.png)
-![image ](https://ddzservernode.al666666.cn/b5.png)
-![image ](https://ddzservernode.al666666.cn/b6.png)
 ![image ](https://ddzservernode.al666666.cn/b7.png)
-![image ](https://ddzservernode.al666666.cn/b8.png)
 
 
 
