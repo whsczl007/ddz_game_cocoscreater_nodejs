@@ -131,6 +131,16 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 ![image ](https://ddzservernode.al666666.cn/c5.png)
 ![image ](https://ddzservernode.al666666.cn/c7.png)
 
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/1.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/2.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/3.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/4.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/5.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/6.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/7.png)
+![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/8.png)
+
+
 
 
 
