@@ -26,6 +26,7 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 
 ## 打赏作者
 [![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/alipays.png)](https://qr.alipay.com/fkx08759pyy1lfuphn99353)
+
 [https://qr.alipay.com/fkx08759pyy1lfuphn99353]
 ## 修改及增加如下
 
