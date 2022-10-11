@@ -16,11 +16,13 @@ Nodejs: (npm 8.1.2, mysql ^2.17.1, nodejs-websocket ^1.7.2)
 ## 扫码体验
 [![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/qr_url.png)](https://whsczldemo.pages.dev/ddz_ioshelper/index.html)
 
-[!下载一 https://whsczldemo.pages.dev/ddz_ioshelper/index.html]
+[下载一 https://whsczldemo.pages.dev/ddz_ioshelper/index.html]
 
-[!在线一 https://whsczldemo.pages.dev/ddz/ioswebclip.html]
+[下载二 https://whsczldemo.netlify.app/ddz_ioshelper/index.html]
 
-[!在线二 https://whsczldemo.netlify.app/ddz/ioswebclip.html]
+[在线一 https://whsczldemo.pages.dev/ddz/ioswebclip.html]
+
+[在线二 https://whsczldemo.netlify.app/ddz/ioswebclip.html]
 
 ## 打赏作者
 [![image ](https://raw.githubusercontent.com/whsczl007/ddz_game_cocoscreater_nodejs/master/image/alipays.png)](https://qr.alipay.com/fkx08759pyy1lfuphn99353)
